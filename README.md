@@ -1,7 +1,7 @@
 # Project-ME701
 
-# Dependinces 
-1 - ffmpeg
+# Dependencies 
+1 - ffmpeg: To help encode our movie this should be installed in your path.
  - conda install ffmpeg
  
 # Files included
